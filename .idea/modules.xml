@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ContactSQliteDB.iml" filepath="$PROJECT_DIR$/ContactSQliteDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContactSqliteSave.iml" filepath="$PROJECT_DIR$/ContactSqliteSave.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
